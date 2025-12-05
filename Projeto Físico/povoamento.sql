@@ -297,7 +297,7 @@ INSERT INTO DIRIGE VALUES ('Tommy Vercetti', 'Chegue ao barco do Coronel e leve 
 INSERT INTO DIRIGE VALUES ('Tommy Vercetti', 'Roube o tanque Rhino durante o desfile militar.', 'Patriot');
 
 -- (SA)
-INSERT INTO MISSAO VALUES ('Carl Johnson', 'Vá até o Cluckin Bell e impeça os Ballas de chegarem na Groove Street.', 'Greenwood');
+INSERT INTO DIRIGE VALUES ('Carl Johnson', 'Vá até o Cluckin Bell e impeça os Ballas de chegarem na Groove Street.', 'Greenwood');
 INSERT INTO DIRIGE VALUES ('Carl Johnson', 'Invada o território dos Ballas e comece um tiroteio.', 'Greenwood');
 
 -- Ternario
